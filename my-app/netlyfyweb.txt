@@ -1,1 +1,2 @@
+web: 
 https://formularibasic.netlify.app/
